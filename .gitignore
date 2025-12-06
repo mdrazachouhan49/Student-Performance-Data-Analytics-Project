@@ -56,8 +56,6 @@ data/
 *.csv
 !StudentsPerformance.csv     # allow this dataset
 
-# Images folder (optional, uncomment if needed)
-# images/
 
 # -----------------------------
 # Jupyter Notebook Hidden Files
