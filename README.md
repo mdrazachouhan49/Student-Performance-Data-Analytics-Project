@@ -3,7 +3,7 @@ A Python-based Exploratory Data Analysis (EDA) project for evaluating academic p
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📘 Overview
+## Overview
 
 This project presents a structured analytical workflow applied to the Students Performance Dataset. Using Python’s core data-science stack, the notebook investigates how demographic attributes and preparation factors influence student outcomes in Math, Reading, and Writing.
 
@@ -11,7 +11,7 @@ The analysis focuses on data profiling, statistical examination, and visual inte
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🧠 Objectives
+## Objectives
 
 Perform data cleaning, transformation, and descriptive statistical analysis
 
@@ -27,51 +27,52 @@ Examine factor impacts such as:
 
 4. Test-preparation course completion
 
-Generate interpretable insights to support data-driven decision-making in academic evaluation
+5. Generate interpretable insights to support data-driven decision-making in academic evaluation
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Technologies & Tools
 
-Tool	- Purpose
-
-Python 3.11.13 -	Core programming environment
-Pandas - Data ingestion, manipulation, descriptive analytics
-NumPy - Numeric operations & array processing
-Matplotlib - Data visualization & graphical analysis
-Jupyter Notebook - Interactive development & documentation
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📈 Key Analytical Components
-
-1. Data Exploration :
-
-Dataset shape, structure, and feature types
-
-Missing value assessment
-
-Summary statistics for performance metrics
-
-2. Feature Relationship Analysis :
-
-Grouped means & distributions
-
-Gender-based performance comparison
-
-Parental education correlation with scores
-
-Lunch type and prep-course influence evaluation
-
-3. Visual Analytics :
-
-Histograms for score distribution
-
-Bar charts for categorical comparisons
-
-Trend evaluation through grouped plots
+| Tool / Library | Purpose |
+|----------------|---------|
+| **Python 3.11.13** | Programming environment |
+| **NumPy** | Numerical computation |
+| **Pandas** | Data loading & manipulation |
+| **Matplotlib** | Data visualization |
+| **Scikit-learn** | Linear Regression, metrics |
+| **Jupyter Notebook** | Interactive development 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Key Analytical Components
 
-💡 Core Insights :
+## 1. Data Exploration :
+
+A) Dataset shape, structure, and feature types
+
+B} Missing value assessment
+
+C) Summary statistics for performance metrics
+
+## 2. Feature Relationship Analysis :
+
+A) Grouped means & distributions
+
+B) Gender-based performance comparison
+
+C) Parental education correlation with scores
+
+D) Lunch type and prep-course influence evaluation
+
+## 3. Visual Analytics :
+
+- Histograms for score distribution
+
+- Bar charts for categorical comparisons
+
+- Trend evaluation through grouped plots
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Core Insights :
 
 1. Reading and Writing scores show strong positive alignment, especially for female students.
 
@@ -82,12 +83,12 @@ Trend evaluation through grouped plots
 4. Test preparation courses improve exam readiness, notably in math.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📜 License
+## License
 
 This project is distributed under the MIT License, permitting reuse and modification.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-👤 Author
+## Author
 
 Md. Raza Chouhan
 
