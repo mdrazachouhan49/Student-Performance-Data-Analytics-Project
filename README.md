@@ -30,7 +30,7 @@ Examine factor impacts such as:
 5. Generate interpretable insights to support data-driven decision-making in academic evaluation
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠️ Technologies & Tools
+## Technologies & Tools
 
 | Tool / Library | Purpose |
 |----------------|---------|
