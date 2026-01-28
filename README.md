@@ -59,7 +59,6 @@ Models were selected based on suitability for educational data and explainabilit
 
 ## Model Evaluation
 Depending on the task, the following metrics were used:
-- Accuracy for classification
 - R squared for explanatory power
 - Mean Absolute Error and Root Mean Squared Error for prediction quality
 
