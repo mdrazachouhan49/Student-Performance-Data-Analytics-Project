@@ -57,4 +57,23 @@ The project demonstrates that meaningful insights can often be derived from well
 ## Professional Relevance
 This project is suitable as:
 - A portfolio demonstration of end to end data science skills  
-- An interv
+- An interview case study for analytics or machine learning roles  
+- A learning reference for structured data modeling  
+- A foundation for more advanced educational analytics work  
+
+It reflects practical industry practices rather than purely academic experimentation.
+
+---
+
+## Scope for Extension
+Possible future improvements include:
+- Feature importance and explainability techniques  
+- Cross validation for more robust evaluation  
+- Advanced regularization and model comparison  
+- Deployment as a lightweight analytics application  
+
+---
+
+## Closing Note
+This project represents a disciplined and professional application of data science principles to an educational problem. It highlights not just model building, but the reasoning and structure required to deliver reliable and meaningful analytical outcomes.
+
